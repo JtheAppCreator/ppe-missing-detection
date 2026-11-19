@@ -1,0 +1,11 @@
+# 데이터셋·학습 산출물 (용량이 크고 데이터 라이선스가 별도)
+datasets/
+runs/
+*.zip
+*.pt
+*.cache
+
+# 기타
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
